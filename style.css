@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f2f5;
+    color: #333;
+}
+.upload-area {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: border 0.3s;
+}
+.upload-area:hover {
+    border-color: #007bff;
+}
